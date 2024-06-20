@@ -33,7 +33,7 @@ const MainPage = ({popularimg}) => {
       <section class="hero" id="home">
         <div class="container">
 
-          <h2 class="h1 hero-title">Journey to explore world</h2>
+          <h2 class="h1 hero-title"> Dass Journey to explore world</h2>
 
           <p class="hero-text">
 Embark on your next adventure with us! Welcome to a world of wanderlust and discovery.
